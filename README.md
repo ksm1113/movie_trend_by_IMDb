@@ -1,8 +1,5 @@
-IMDb 데이터셋 속 TMI  
-================================================================================
+# Kim Saemin
+### Hi there 👋 </br>I'm Saemin Kim, I hope to Data Analyst
 
-<div align=center>
-작업에 사용한 도구들
- <img src="https://img.shields.io/badge/Python-61DAFB?style=flat&logo=#3776AB&logoColor=black"/>
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
- 
+## 💻 Used Stack
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white"/><img alt="SQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
